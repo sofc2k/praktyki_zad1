@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: Exercise 1
+
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+
+server:
+  port: 8080
+
